@@ -1,4 +1,19 @@
-# readme.md
+
+<p align="left"></p>
+My Discord Acc: Wondâ#0001
 
 
-{"success":true,"data":{"spotify":null,"listening_to_spotify":false,"kv":{},"discord_user":{"username":"Wondâ","public_flags":256,"id":"389168690899320842","discriminator":"0001","bot":false,"avatar":"5a65312bfbf267fb892f66cf46a75c08"},"discord_status":"dnd","activities":[{"type":0,"timestamps":{"start":1659828774215},"state":"Viewing ban.js","name":"Code","id":"6514faba6d949e4","details":"In Executive - 0 problems found","created_at":1659829862670,"assets":{"small_text":"zZz","small_image":"mp:external/Y6xAhARpHfRM8Bkdw0a1ZkbTAIXqKJFmrSAvHjKs6B0/https/raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/idle.png","large_text":"Editing a JS file","large_image":"mp:external/ftBjuYHxeAs2FW1lMnr-_BxOSttEZIc1aAzg_W3nFlM/https/raw.githubusercontent.com/LeonardSSH/vscord/main/assets/icons/js.png"},"application_id":"782685898163617802"}],"active_on_discord_web":false,"active_on_discord_mobile":false,"active_on_discord_desktop":true}}
+<h3>Social Media</h3>
+<p align="left">
+  <a href="https://discord.com/users/389168690899320842" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/wondaxdd" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+
+
+
+</p>
+<h3 align="left">🌊 Discord Status:</h3>
+<p align="left">
+<img src="https://lanyard-profile-readme.vercel.app/api/389168690899320842" width="%100" height"150px" />
+     </p>
