@@ -14,5 +14,5 @@ My Discord Acc: Wonda#1932
 </p>
 <h3 align="left">🌊 Discord Status:</h3>
 <p align="left">
-<img src="https://lanyard-profile-readme.vercel.app/api/389168690899320842" width="%100" height"150px" />
+<img src="https://lanyard-profile-readme.vercel.app/api/290414479865413632" width="%100" height"150px" />
      </p>
